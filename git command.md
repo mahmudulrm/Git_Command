@@ -33,7 +33,6 @@ git add -A or --all
 git status
 git commit -m "git Command list"
 git branch -M master
-git remote add origin https://github.com/mahmudulrm/Git_Command.git
 git push -u origin master
 ```
 
