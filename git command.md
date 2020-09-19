@@ -27,13 +27,10 @@ git branch -M master
 git push -u origin master
 ```
 # Added new files:
-# Create a new repository on the command line:
 ```bash
-echo "# Git_Command" >> README.md
 git init
-git status
-
 git add -A or --all
+git status
 git commit -m "git Command list"
 git branch -M master
 git remote add origin https://github.com/mahmudulrm/Git_Command.git
